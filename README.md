@@ -1,5 +1,6 @@
 # clippy
 Clippy - A simple Javascript clipboard Libary
+<br>
 *Because 3kB for clipboard.js is too much - this libary is only 263 bytes gzipped!*
 
 
